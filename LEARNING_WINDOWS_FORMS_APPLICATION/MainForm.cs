@@ -7,7 +7,7 @@
 			InitializeComponent();
 		}
 
-		private void doSomethingButton_Click(object sender, System.EventArgs e)
+		private void DoSomethingButton_Click(object sender, System.EventArgs e)
 		{
 			System.Windows.Forms.MessageBox.Show("Hello, World!");
 		}
